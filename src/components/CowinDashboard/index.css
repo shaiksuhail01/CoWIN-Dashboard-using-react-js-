@@ -1,0 +1,52 @@
+.cowinDashboardContainer {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  flex-direction: column;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+.logoImage {
+  width: 20px;
+}
+.logoText {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #2cc6c6;
+  font-weight: 500;
+  margin: 0px;
+  margin-left: 6px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 19px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.loaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.failureImage {
+  width: 80px;
+}
+.failureContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.failureText {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.barChartBg {
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  margin-bottom: 10px;
+  padding-bottom: 18px;
+}
+.headingOne {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #cbd5e1;
+  font-size: 17px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
