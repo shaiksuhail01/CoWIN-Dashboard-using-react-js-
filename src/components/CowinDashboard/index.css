@@ -7,8 +7,6 @@
   flex-direction: column;
   padding-left: 50px;
   padding-right: 50px;
-  font-size:30px;
-  font-weight:20px;
 }
 .logoContainer {
   display: flex;
