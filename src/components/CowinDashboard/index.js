@@ -93,6 +93,7 @@ class CowinDashboard extends Component {
             className="logoImage"
           />
           <p className="logoText">Co-WIN</p>
+          <p className='logoText'>Co-dash</p>
         </div>
         <h1 className="heading">CoWIN Vaccination in India</h1>
         {this.renderSwitch()}
